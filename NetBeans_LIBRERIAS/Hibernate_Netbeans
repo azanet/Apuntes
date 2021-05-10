@@ -1,0 +1,29 @@
+para version 12 (en mi caso)
+
+Descargamos el plugin de Hibernate de su pagina oficial
+ 
+ (aquí está el plugin y el repo de MAVEN)
+https://hibernate.org/orm/releases/5.4/
+
+
+//EN ESTA PAGINA ESTAN TODOS LOS JAR//
+#######################################
+https://search.maven.org/search?q=g:org.hibernate%20AND%20a:hibernate-*%20AND%20v:5.4.31.Final
+
+
+DESCARGAMOS LA/LAS LIBRERIAS NECESARIAS, Y SOLO TEWNEMOS QUE IMPORTARLA A NUESTRO PROYECTO 
+
+
+
+
+
+
+
+
+necesitamos tener instalado "Freemarker integration" para poder instalar el plugin de Hibernate (que ya no viene preinstalado)
+
+en linux, podemos instalarlo con este comando en el terminal:
+# sudo apt install libfreemarker-java libfreemarker-java-doc
+
+
+ 
